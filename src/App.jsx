@@ -26,13 +26,9 @@ import "./styles.css";
 const siteProps = {
   name: "Shrey Shah",
   title: "Web Developer, Designer, and Artist",
-  email: "shreyshah241@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  gitHub: "Shrey0610",
+  instagram: "shreyshah0610",
+  linkedIn: "shrey-shah-06o10",
 };
 
 const primaryColor = "#4E567E";
